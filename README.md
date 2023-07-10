@@ -1,6 +1,7 @@
 # Art Prompt Magnet
 
 ![Main](Images/Main.png)
+
 A Simple device that can give a random prompt everyday on your fridge if you are an artist.
 
 This is probably my first Arduino project and I wanted to start with something really small and simple using the [[Arduino Nano]].
