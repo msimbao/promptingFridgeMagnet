@@ -1,4 +1,6 @@
 # Art Prompt Magnet
+
+![Main](Images/Main.png)
 A Simple device that can give a random prompt everyday on your fridge if you are an artist.
 
 This is probably my first Arduino project and I wanted to start with something really small and simple using the [[Arduino Nano]].
@@ -9,4 +11,4 @@ I decided to make my own device that I could put a bunch of random prompts into 
 
 This doesn't have to be a prompt for art only, It could be a prompt for a creative electronics project to try everyday, a short story or just words of encouragement.
 
-(https://www.instructables.com/Art-Prompt-Magnet/)[Full Instructable Tutorial]
+[Full Instructable Tutorial](https://www.instructables.com/Art-Prompt-Magnet)
